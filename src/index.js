@@ -73,7 +73,8 @@ var services = [
     { name: 'Web Development', price: 300 },
     { name: 'Design', price: 400 },
     { name: 'Integration', price: 250 },
-    { name: 'Training', price: 220 }
+    { name: 'Training', price: 220 },
+    { name: 'Sale', price: 1200 }
 ];
 
 
